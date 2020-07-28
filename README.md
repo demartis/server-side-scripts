@@ -2,7 +2,7 @@
 ============================
 
 
-A collection of scripts to save time configuring our linux servers.
+A collection of scripts to save time in configuring our linux servers.
 
 Available commands:
 
