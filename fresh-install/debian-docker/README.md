@@ -17,7 +17,7 @@ It works also with Debian 9.
     ```
 3. Run:
     ```bash
-    bash <(wget -q0- https://github.com/demartis/server-side-scripts/tree/master/fresh-install/debian-docker/start-here.sh)
+    bash <(wget -qO- https://raw.githubusercontent.com/demartis/server-side-scripts/master/fresh-install/debian-docker/start-here.sh)
     ```
 
 ## What this script do:

@@ -26,7 +26,7 @@ then
 fi
 
 if ! [[ -t 0 ]]; then
-  err "This script is interactive, please run: bash <(wget -q0- https://github.com/demartis/server-side-scripts/tree/master/fresh-install/debian-docker/start-here.sh)" >&2
+  err "This script is interactive, please run: bash <(wget -qO- https://raw.githubusercontent.com/demartis/server-side-scripts/master/fresh-install/debian-docker/start-here.sh)" >&2
   exit 1
 fi
 
